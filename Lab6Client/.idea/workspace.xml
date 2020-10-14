@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Lab6Client:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5912c0b8-e6f8-4717-a68a-45ee956fba50" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1infmD2CMHg8lshzQxWHbDaZgmo" />
+  <component name="ProjectViewState">
+    <option name="compactDirectories" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lab6Server" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Diana\JavaProjects\Zhenya\Lab6Client\src\commands" />
+      <recent name="C:\Users\Diana\JavaProjects\Zhenya\Lab6Client\src\controller" />
+      <recent name="C:\Users\Diana\JavaProjects\Zhenya\Lab6Client\src\dragon" />
+      <recent name="C:\Users\Diana\JavaProjects\Zhenya\Lab6Client\src\utilities" />
+      <recent name="C:\Users\Diana\JavaProjects\Zhenya\Lab6Client\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="utilities" />
+      <recent name="commands" />
+      <recent name="controller" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Diana\JavaProjects\Zhenya\Lab6Client" />
+      <recent name="C:\Users\Diana\JavaProjects\Zhenya\Lab6Client\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="MainConsole" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainConsole" />
+      <module name="Lab6Client" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainConsole" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5912c0b8-e6f8-4717-a68a-45ee956fba50" name="Default Changelist" comment="" />
+      <created>1602548432951</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602548432951</updated>
+      <workItem from="1602548436069" duration="3212000" />
+      <workItem from="1602584909410" duration="3627000" />
+      <workItem from="1602589605410" duration="4556000" />
+      <workItem from="1602599829878" duration="6392000" />
+      <workItem from="1602631841543" duration="2353000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602548604960">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1602548604960" />
+    <state x="488" y="69" key="#com.intellij.ide.util.MemberChooser" timestamp="1602604077202">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="488" y="69" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1602604077202" />
+    <state x="434" y="152" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1602608436160">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="434" y="152" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.738@0.0.1366.738" timestamp="1602608436160" />
+    <state x="413" y="115" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1602632080130">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="413" y="115" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.738@0.0.1366.738" timestamp="1602632080130" />
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1602631863151">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1602631863151" />
+    <state width="1323" height="165" key="GridCell.Tab.0.bottom" timestamp="1602633890089">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="165" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1602633890089" />
+    <state width="1323" height="165" key="GridCell.Tab.0.center" timestamp="1602633890088">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="165" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1602633890088" />
+    <state width="1323" height="165" key="GridCell.Tab.0.left" timestamp="1602633890088">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="165" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1602633890088" />
+    <state width="1323" height="165" key="GridCell.Tab.0.right" timestamp="1602633890089">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="165" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1602633890089" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1602608438375">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1602608438375" />
+    <state x="389" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1602605079027">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="389" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.738@0.0.1366.738" timestamp="1602605079027" />
+  </component>
+</project>
